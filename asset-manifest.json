@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/voot/static/css/main.fe045584.css",
-    "main.js": "/voot/static/js/main.7b3132f1.js",
+    "main.js": "/voot/static/js/main.f1d31095.js",
     "static/media/sideBackground.png": "/voot/static/media/sideBackground.bdad9aec8e6870978d95.png",
     "static/media/Voot-Logo.svg": "/voot/static/media/Voot-Logo.51d7262476cac50bd9d3.svg",
     "static/media/slick.svg": "/voot/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -12,6 +12,6 @@
   },
   "entrypoints": [
     "static/css/main.fe045584.css",
-    "static/js/main.7b3132f1.js"
+    "static/js/main.f1d31095.js"
   ]
 }
